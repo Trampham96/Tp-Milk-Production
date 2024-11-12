@@ -1,7 +1,6 @@
 streamlit
 pandas
-matplotlib.pyplot
-plotly.express
-plotly.graph_objects
-SimpleExpSmoothing
-train_test_split
+matplotlib
+plotly
+statsmodels
+scikit-learn
