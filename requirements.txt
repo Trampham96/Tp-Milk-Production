@@ -3,4 +3,4 @@ pandas
 matplotlib
 plotly
 SimpleExpSmoothing
-train_test_split
+sklearn
